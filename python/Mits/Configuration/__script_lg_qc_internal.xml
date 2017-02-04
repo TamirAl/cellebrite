@@ -1,7 +1,13 @@
 <dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2005-05-18T13:59:36">
+
   <PHONE>
+
 	<CGuid>0</CGuid>
+
 	<AUTO_WAIT>False</AUTO_WAIT>
+
 	<PHONE_CONNECTED_IN_DIAG_MODE>True</PHONE_CONNECTED_IN_DIAG_MODE>    
+
   </PHONE>
+
 </dataroot>   
