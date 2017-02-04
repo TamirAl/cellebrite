@@ -1,0 +1,41 @@
+Release 1 - the supply chain - a backdoor with backdoors. 
+
+In this release find a small sample of the 900GB of mere 'user accounts and basic contact 
+information' recently liberated from Cellebrite.
+
+The exploit techniques that Cellebrite employ are wrapped in various encryption schemes 
+in an attempt to protect 'their' intellectual property.  The custom routines for 
+decrypting this lame ass protection are included in this release along with an 
+accompanying sample .eas (DLL designed to target devices and applications) and .epr 
+(bootloaders, exploits and shellcode) files.
+
+The more discerning eye will notice that some of the Apple exploits bear a remarkable 
+resemblance to those available to any teenager interested in the jailbreaking scene; 
+perhaps not all those tax dollars have been wasted, the Blackberry epr is still worth 
+a look at.
+
+The ripped, decrypted and fully functioning python script set to utilize the exploits 
+is also included within.
+
+Coming soon.....
+
+Release 2 - watching the watchers - pivot to win.
+
+In this release find a small sample of files retrieved via the weaponized Cellebrite 
+update service deployed on MS Windows based devices and desktops (SYSTEM privs) within 
+the customer infrastructure.
+
+Analysis of the compression and obfuscation employed by Cellebrite on products supplied to 
+British MOD juxtaposed with the protection free versions supplied to SOCOM and others is
+also included within. 
+
+@FBI Be careful in what you wish for.
+
+<-.(`-')  (`-')  _           <-.(`-') _(`- )   ויתן יהוה את-יהוה לקח    (`-')   (`-')
+ __( OO)  (OO ).-/  _         __( OO)( (OO ).->     .->        .->   <-.(OO )   ( OO).->
+'-'---.\  / ,---.   \-,-----.'-'. ,--.\    .'_ (`-')----. (`-')----. ,------,),(_/----.
+| .-. (/  | \ /`.\   |  .--./|  .'   /'`'-..__)( OO).-.  '( OO).-.  '|   /`. '|__,    |
+| '-' `.) '-'|_.' | /_) (`-')|      /)|  |  ' |( _) | |  |( _) | |  ||  |_.' | (_/   /
+| /`'.  |(|  .-.  | ||  |OO )|  .   ' |  |  / : \|  |)|  | \|  |)|  ||  .   .' .'  .'_
+| '--'  / |  | |  |(_'  '--'\|  |\   \|  '-'  /  '  '-'  '  '  '-'  '|  |\  \ |       |
+`------'  `--' `--'   `-----'`--' '--'`------'    `-----'    `-----' `--' '--'`-------'
